@@ -1,4 +1,4 @@
-package dotterbear.service.config.server;
+package com.dotterbear.service.config.server;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
