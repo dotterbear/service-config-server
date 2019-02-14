@@ -10,3 +10,8 @@ spring:
           uri: https://gitlab.com/pqab-ms/repo-config.git
           username: config
           password: xA86jvagwDjFDVRXSxxm
+eureka:
+  client:
+    register-with-eureka: true
+    instance:
+      appname: service-config-server
