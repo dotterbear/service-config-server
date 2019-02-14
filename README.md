@@ -1,6 +1,6 @@
 # service-eureka-scheduler
 
-A eureka server with docker image.
+A spring cloud config server with docker image.
 
 For more details, please see [service-overview](https://github.com/dotterbear/service-overview).
 
