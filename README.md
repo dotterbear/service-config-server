@@ -1,4 +1,4 @@
-# service-eureka-scheduler
+# service-config-server
 
 A spring cloud config server with docker image.
 
