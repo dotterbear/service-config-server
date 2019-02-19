@@ -1,3 +1,11 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://gitlab.com/pqab-ms/repo-config.git
+          username: config
+          password: ENC(fgIzg8IOl+0Rf3Lg/yiPBhG23NHLRGHlRroer4AP/2M=)
 eureka:
   instance:
     hostname: ENC(ADCKwJxOwtcjNop7oPbWZ5u7tB4zhoX5)
