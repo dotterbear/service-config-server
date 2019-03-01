@@ -1,5 +1,5 @@
 server:
-  port: 33001
+  port: 33002
 spring:
   profiles: 
     active: dev
