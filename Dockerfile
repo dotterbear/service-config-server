@@ -1,5 +1,4 @@
 FROM openjdk:8-jdk-alpine
-# VOLUME /tmp
 ARG JASYPT_ENCRYTOR_PASSWORD
 ADD target/service-config-server-1.0.0-SNAPSHOT.jar app.jar
 EXPOSE 33001
